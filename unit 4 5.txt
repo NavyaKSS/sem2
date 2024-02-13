@@ -1,0 +1,83 @@
+unit 4 
+thermodynamics
+2 marks 
+
+isolated system 
+An isolated system is a thermodynamic system that cannot exchange either energy 
+or matter outside the boundaries of the system. 
+There are two ways in which this may occur:
+The system may be so distant from another system that it cannot interact with them.
+The system may be enclosed such that neither energy nor mass may enter or exit.
+
+closed system
+In the field of thermodynamics, a closed system can be defined as a system in which 
+the exchange of energy (in the form of heat or work, for instance) is allowed but the 
+exchange of matter is not (with respect the surroundings of the system). 
+
+open system
+An open system can exchange both energy and matter with its surroundings. The stovetop 
+example would be an open system, because heat and water vapor can be lost to the air.
+
+adiabatic process
+adiabatic process, in thermodynamics, change occurring within a system as a result of transfer 
+of energy to or from the system in the form of work only; i.e., no heat is transferred. A rapid 
+expansion or contraction of a gas is very nearly adiabatic. 
+
+isothermal PROCESS
+An isothermal process is a thermodynamic process in which the temperature of a system remains 
+constant. The transfer of heat into or out of the system happens so slowly that thermal equilibrium 
+is maintained.
+
+isobaric process
+An Isobaric process is a thermodynamic process taking place at constant pressure. The term 
+isobaric has been derived from the Greek words “iso” and “baros” meaning equal pressure. As 
+such, the constant pressure is obtained when the volume is expanded or contracted
+
+isochoric process
+In thermodynamics, an isochoric process, also called a constant-volume process, an isovolumetric
+ process, or an isometric process, is a thermodynamic process during which the volume of the 
+closed system undergoing such a process remains constant.
+
+internal energy
+Internal energy increases with rising temperature and with changes of state or phase from solid to 
+liquid and liquid to gas. 
+Internal Energy of a Closed System
+For a closed system the internal energy is essentially defined by
+ΔU = q + W
+Where
+U is the change in internal energy of a system during a process
+q is the heat
+W is the mechanical work.
+
+enthaply
+Enthalpy is the measurement of energy in a thermodynamic system. The quantity of enthalpy 
+equals to the total content of heat of a system, equivalent to the system's internal energy plus 
+the product of volume and pressure.
+
+entropy
+entropy, the measure of a system's thermal energy per unit temperature that is unavailable for 
+doing useful work. Because work is obtained from ordered molecular motion, the amount of 
+entropy is also a measure of the molecular disorder, or randomness, of a system.
+
+spontaneous process
+In thermodynamics, a spontaneous process is a process which occurs without any external input 
+to the system.
+
+non spontaneous process
+A nonspontaneous reaction is a chemical reaction in which the standard change in free energy is 
+positive and energy is absorbed
+
+ 2 derivation
+gibbs free energy derivation
+gibs helmtz wall
+
+unit 5 
+organic
+sn1,sn2 (steps, ex, mechanism)
+e1 e2 (
+oxidizing n reducing agent
+drugs(def affects)
+synthesis of paracetemol n aspirin
+isomerism(tatomers,chain func.............
+enainomers daisterormers meso componds
+structure(ficher seahourse newmann)
